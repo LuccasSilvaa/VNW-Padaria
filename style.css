@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: sienna;
+  height: 200px;
+  text-align: center;
+}
+header img {
+  width: 100px;
+}
+header h1 {
+  color: aliceblue;
+}
+
+article {
+  border: solid 2px;
+  width: 300px;
+  height: 300px;
+  margin-left: 50px;
+  margin-top: 10px;
+  background-color: sandybrown;
+  padding: 30px;
+}
+article img {
+  width: 200px;
+}
+article button {
+  background-color: sienna;
+  color: aliceblue;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+}/*# sourceMappingURL=style.css.map */
